@@ -1,0 +1,6 @@
+.navitems a:hover {
+ color:brown;
+ scale: 0.9;
+ cursor: pointer;
+}
+
